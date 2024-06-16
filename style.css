@@ -9,6 +9,7 @@ body{
     align-items: center;
     min-height: 100vmin;
     background-color: #fefae0;
+    flex-direction: row;
 }
 
 h2{
@@ -92,5 +93,6 @@ form button{
     body {
     display: flex;
     align-content: center;
+    margin: top 10vh;;
   }
 }
