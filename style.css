@@ -86,6 +86,11 @@ form button{
    .dropdown{
     flex-direction: column;
     }
-   
-    
+   .container{
+        width: 80vmin;
+    }
+    body {
+    display: flex;
+    align-content: center;
+  }
 }
