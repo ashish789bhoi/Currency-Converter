@@ -14,6 +14,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Currency Converter">
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ## About<!-- Required -->
 <!-- 
 * information about the project 
@@ -23,6 +25,8 @@ A simple and intuitive web application for converting currencies using real-time
 </div>
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ## Table of Contents<!-- Required -->
 - Demo 
 - Features
@@ -31,10 +35,12 @@ A simple and intuitive web application for converting currencies using real-time
 - Techonologies Used
 - Screenshots
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Demo 
 Checkout the live demo of the project [here](https://ashish789bhoi-currency-converter.vercel.app/)
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Features
 - Converts amounts from one currency to another in real-time.
@@ -42,7 +48,7 @@ Checkout the live demo of the project [here](https://ashish789bhoi-currency-conv
 - Displays flags for selected currencies.
 - User-friendly interface.
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Run Locally<!-- Required -->
 1. Clone this repository into your local machine.
@@ -53,12 +59,14 @@ git clone https://github.com/your-username/currency-converter.git
 ```bash
 cd currency-converter
 ```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Usage
 - Enter the amount you want to convert in the "Enter amount" input field.
 - Select the currencies you want to convert from and to using the dropdown menus. The dropdown menus are pre-populated with common currency codes.
 - Click the "Get Exchange Rate" button to fetch the conversion rate and display the result.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Technology Used
 - **HTML5**: For structuring the web page..
@@ -68,6 +76,8 @@ cd currency-converter
 - **FlagsAPI**:  For displaying country flags corresponding to the selected currencies.
 - **Google Fonts**: For custom fonts.
 - **RapidAPI**: For accessing the Currency Conversion and Exchange Rates API to fetch real-time exchange rates.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Screenshots
 <div align="center">
