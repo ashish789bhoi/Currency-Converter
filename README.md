@@ -72,7 +72,6 @@ cd currency-converter
 - **HTML5**: For structuring the web page..
 - **CSS3**: For styling the user interface.
 - **JavaScript**: For dynamic interactions and API calls.
-- **Font Awesome**: For icons used in the navigation and music player.
 - **FlagsAPI**:  For displaying country flags corresponding to the selected currencies.
 - **Google Fonts**: For custom fonts.
 - **RapidAPI**: For accessing the Currency Conversion and Exchange Rates API to fetch real-time exchange rates.
