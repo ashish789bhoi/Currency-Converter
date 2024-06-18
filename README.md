@@ -81,7 +81,7 @@ cd currency-converter
 ## Screenshots
 <div align="center">
     <br>
-    <a href="https://github.com/ashish789bhoi/Spotify-UI-Clone/blob/main/img/Demo_ss.png?raw=true" target="_blank">
+    <a href="https://github.com/ashish789bhoi/Currency-Converter/blob/main/Demo.png?raw=true" target="_blank">
         <img src="https://github.com/ashish789bhoi/Currency-Converter/blob/main/Demo.png?raw=true" 
         alt="Logo" height="300" width="auto">
     </a>
